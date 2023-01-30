@@ -26,4 +26,4 @@ const rotateLeft = (arr, n) => {
     return resultArray;
 };
 
-console.log(rotateLeft([1, 2, 3, 4, 5], 4));
+// console.log(rotateLeft([1, 2, 3, 4, 5], 3));
